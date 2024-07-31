@@ -1,0 +1,9 @@
+{
+	"name": "adf-upds-unm-dev-9gp",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12b9e332-2934-4379-a627-ff62c9332cb7",
+		"tenantId": "3705cdfe-1991-48fc-9579-b0da85eec9ee"
+	}
+}
